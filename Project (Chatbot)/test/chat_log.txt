@@ -1,0 +1,26 @@
+2025-01-22 21:39:39,393 - hehe: coffee powder
+2025-01-22 21:39:39,395 - Amit: You can grab a coffee at the coffee bar from 8 AM to 5 PM.
+2025-01-22 21:39:49,898 - hehe: milk
+2025-01-22 21:39:49,899 - Amit: That's an interesting question, but I don't have the answer right now.
+2025-01-22 21:40:57,324 - hehe: admission open
+2025-01-22 21:40:57,324 - Amit: I'm not sure about that, but I can help you with other questions!
+2025-01-22 21:41:06,081 - hehe: admission
+2025-01-22 21:41:06,081 - Amit: I'm not sure about that, but I can help you with other questions!
+2025-01-22 21:41:19,032 - hehe: admissions
+2025-01-22 21:41:19,034 - Amit: For admissions inquiries, please visit our admissions page.
+2025-01-22 21:41:57,484 - hehe: admissions open
+2025-01-22 21:41:57,485 - Amit: You can find information about admissions on our website.
+2025-01-22 21:51:57,269 - ac: library
+2025-01-22 21:51:57,270 - Aarin: The library is open from 9 AM to 9 PM on weekdays.
+2025-01-22 21:52:37,379 - ac: bye bro
+2025-01-22 21:52:37,380 - Aarin: That's an interesting question, but I don't have the answer right now.
+2025-01-22 22:01:31,902 - yoyo: canteen
+2025-01-22 22:01:31,903 - Ram: The canteen is open from 8 AM to 8 PM on weekdays.
+2025-01-22 22:01:37,750 - yoyo: canteen
+2025-01-22 22:01:37,750 - Ram: The canteen is open from 8 AM to 8 PM on weekdays.
+2025-01-22 22:01:42,518 - yoyo: canteen
+2025-01-22 22:01:42,518 - Ram: The canteen is open from 8 AM to 8 PM on weekdays.
+2025-01-22 22:09:48,101 - hostel: hostel
+2025-01-22 22:09:48,103 - Ishan: Hostel applications are open now, Please check the student portal for more details.
+2025-01-22 22:09:55,429 - hostel: hostel
+2025-01-22 22:09:55,430 - Ishan: Our hostel is not for you.

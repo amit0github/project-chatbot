@@ -1,0 +1,42 @@
+{
+    "coffee": [
+        "The campus coffee cafe opens at 8 AM and closes at 5 PM.",
+        "You can grab a coffee at the cafe from 8 AM to 5 PM."
+    ],
+    "admissions": [
+        "You can find information about admissions on our website.",
+        "For admissions inquiries, please visit our admissions page."
+    ],
+    "courses": [
+        "We offer a variety of courses, Plz check our course catalog online.",
+        "For details on courses, please refer to our course offerings."
+    ],
+    "library": [
+        "The library is open from 9 AM to 9 PM everyday.",
+        "You can access the library from 9 AM to 9 PM."
+    ],
+    "default": [
+        "I'm not sure about that, but I can help you with other questions!",
+        "That's an interesting question, of course next time."
+    ],
+    "fees": [
+        "Check our website under the 'Fee Structure' section.",
+        "Contact the student accounts office or check the website."
+    ],
+    "accommodation": [
+        "You can't afford for the accommodation.",
+        "You can apply for campus housing through the student portal."
+    ],
+    "hostel": [
+        "Our hostel is not for you.",
+        "Hostel applications are open now, Please check the student portal for more details."
+    ],
+    "canteen": [
+        "The canteen is open from 8 AM to 8 PM on daily basis.",
+        "You can find a variety of meals at the canteen."
+    ],
+    "scholarships": [
+        "We offer various scholarships based on academic performance.",
+        "You can apply for scholarships through the university website."
+    ]
+}
